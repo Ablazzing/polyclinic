@@ -1,0 +1,14 @@
+logging:
+  level:
+    org.springframework: ERROR
+    root: DEBUG
+
+app:
+  doctor:
+    price:
+      junior-surgeon: 700
+      senior-surgeon: 2000
+      dentist: 1500
+      therapist: 500
+
+
